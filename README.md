@@ -28,4 +28,4 @@ Package                           Version
 @schematics/update                0.1000.4\
 rxjs                              6.6.0\
 typescript                        3.9.7\
-webpack                           4.43.0\
+webpack                           4.43.0
