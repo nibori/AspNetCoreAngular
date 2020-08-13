@@ -5,7 +5,7 @@ Project template with ASP.NET Core 3.1 and Angular 10
 
 Angular version details:
 -----------------------------------------------------------
-Angular: 10.0.8
+Angular: 10.0.9
 
 animations, common, compiler, compiler-cli, core, forms,
 language-service, platform-browser, platform-browser-dynamic,
